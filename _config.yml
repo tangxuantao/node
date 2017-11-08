@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+title: 我是一个小蜗牛
+subtitle: "一步一步往上爬"
+description: "node 从入门到放弃"
+keywords: node
+encoding: "utf-8"
+side_bar_repo_limit: 5
+
+
+#   Author    #
+author: xuantao tang
+organization_url: https://github.com/tangxuantao
+email: 646367884@qq.com
